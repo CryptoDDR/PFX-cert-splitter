@@ -3,7 +3,7 @@
 import os
 import subprocess
 import sys
-#print(DDR_Encoded)
+#print("DDR_Encoded")
 
 current_path = os.getcwd()
 #print(current_path)
